@@ -1,1 +1,1 @@
-http://configure.ergodox-ez.com/keyboard_layouts/kabymg/edit
+http://configure.ergodox-ez.com/keyboard_layouts/qmyrae/edit
